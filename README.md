@@ -2,6 +2,7 @@
 A web based guessing game made using HTML, CSS and Javascript.
 
 # Link for the Game:-
+https://yashdalwani.github.io/The-Predictor/
 
 # Screenshot of the Game:-
 
